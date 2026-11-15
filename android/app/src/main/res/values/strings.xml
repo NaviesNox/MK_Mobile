@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MK Mobile</string>
+    <string name="title_activity_main">MK Mobile</string>
+    <string name="package_name">com.naviesnox.mkmobile</string>
+    <string name="custom_url_scheme">com.naviesnox.mkmobile</string>
+</resources>
